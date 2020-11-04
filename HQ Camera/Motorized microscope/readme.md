@@ -2,9 +2,13 @@
 We are going to use parts of a [CNC 3018](https://amzn.to/3jST8Bs) to build a motorized stand. The 12.3MP HQ camera is installed on a 3D printed vertical axis. The vertical axis is motorized by a Nema 17 p motor driven from an A4988 controller in Python using the [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) library from Gavin Lyons
 The HTML command interface was developed in Python. It is accessible from the local network and allows you to zoom and control the NeoPixels LED lighting.
 
+![microscope](https://github.com/projetsdiy/Raspberry-Pi-Projects/blob/main/HQ%20Camera/Motorized%20microscope/pictures/raspberry%20pi%20hq%20camera%20microscope.jpg)
+
 Source code based on the Web streaming example from the official [PiCamera package](http://picamera.readthedocs.io/en/latest/recipes2.html#web-streaming)
 
 The HTML command interface was developed in Python. It is accessible from the local network and allows you to zoom and control the NeoPixels LED lighting.
+
+
 
 * [Step by step tutorial](https://diyprojects.io/motorized-microscope-hq-camera-raspberry-pi-python-html-interface/)
 * [3D printed parts on Thingiverse](https://www.thingiverse.com/thing:4641573)
