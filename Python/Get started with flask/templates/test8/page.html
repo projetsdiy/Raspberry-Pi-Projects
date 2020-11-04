@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+        <!-- Bootstrap CSS --> 
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="container" style="padding:10px">
+                <div class="card mb-3 h-100">
+                    <div class="card-header">Distance to move {{distance}} mm</div>     
+                    <div class="card-body"> 
+                        <form method="POST" action="setdistance"> 
+                            <div class="btn-group" role="group" > 
+                                <button name="distance" type="submit" class="btn btn-secondary" value="0.1">0.1 mm</> 
+                                <button name="distance" type="submit" class="btn btn-secondary" value="1">1 mm</> 
+                                <button name="distance" type="submit" class="btn btn-secondary" value="10">10 mm</> 
+                            </div> 
+                        </form> 
+                    </div>    
+                </div>
+                
+   
+        </div>
+    </body>
+</html>    
+

@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+    <head>
+        <!-- Bootstrap CSS --> 
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="container" style="padding:10">
+            <h3>Flask Dashboard with Bootstrap ♥</h3>
+            <div class="row">
+                <div class="col-6">
+                    <div class="card text-white bg-dark mb-3 h-100" style="max-width: 12rem;">
+                        <div class="card-header">LED State</div>
+                        <div class="card-body text-secondary">
+                            <p class="card-text" >
+                                {% if status %}
+                                  <p style="color:green">ON</p>
+                                {% else %}
+                                  <p style="color:red">OFF</>
+                                {% endif %}
+                            </p>    
+                        </div>   
+                    </div>     
+                </div>    
+                <div class="col-6">
+                    <div class="card bg-light mb-3 h-100" style="max-width: 12rem;">
+                        <div class="card-header">Temperature</div>
+                        <div class="card-body">
+                            <p class="card-text">
+                                {{ temperature }}°C
+                            </p>    
+                        </div>   
+                    </div>     
+                </div>    
+            </div>    
+        </div>
+    </body>
+</html>    
+
