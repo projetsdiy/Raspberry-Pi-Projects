@@ -1,4 +1,3 @@
-# app.py
 from flask import Flask, render_template  
 
 app = Flask(__name__) # name for the Flask app (refer to output)
