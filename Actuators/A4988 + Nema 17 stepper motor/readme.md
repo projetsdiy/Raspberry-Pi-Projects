@@ -10,9 +10,8 @@ We will use the Flask library to create an HTML interface that will allow you to
 ## Circuit
 
 ## Tutorials
-
-[Step by step tutorial](https://diyprojects.io/drive-nema-17-stepper-motor-rpimotorlib-python-library-a4988/)
-[Débuter avec la librairie Python Flask](https://diyprojects.io/flask-bootstrap-html-interface-effortless-python-projects/)
+* [Step by step tutorial](https://diyprojects.io/drive-nema-17-stepper-motor-rpimotorlib-python-library-a4988/)
+* [Débuter avec la librairie Python Flask](https://diyprojects.io/flask-bootstrap-html-interface-effortless-python-projects/)
 
 ==========
 # Comment piloter un moteur pas à pas Nema 17 avec la bibliothèque RpiMotorLib Python pour A4988
@@ -29,6 +28,5 @@ Nous utiliserons la librairie Flask pour créer un interface HTML qui permettra 
 ## Interface
 
 ## Tutoriels
-
-[Tutoriel étape par étape](https://projetsdiy.fr/raspberry-pi-piloter-moteur-pas-a-pas-nema-17-librairie-rpimotorlib-python-a4988/)
-[Débuter avec la librairie Python Flask](https://projetsdiy.fr/python-flask-bootstrap-interface-html-projet-sans-effort/)
+* [Tutoriel étape par étape](https://projetsdiy.fr/raspberry-pi-piloter-moteur-pas-a-pas-nema-17-librairie-rpimotorlib-python-a4988/)
+* [Débuter avec la librairie Python Flask](https://projetsdiy.fr/python-flask-bootstrap-interface-html-projet-sans-effort/)
