@@ -1,4 +1,7 @@
 # Motorized microscope with Raspberry Pi HQ camera and HTML interface
+We are going to use parts of a [CNC 3018](https://amzn.to/3jST8Bs) to build a motorized stand. The 12.3MP HQ camera is installed on a 3D printed vertical axis. The vertical axis is motorized by a Nema 17 p motor driven from an A4988 controller in Python using the [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) library from Gavin Lyons
+The HTML command interface was developed in Python. It is accessible from the local network and allows you to zoom and control the NeoPixels LED lighting.
+
 Source code based on the Web streaming example from the official [PiCamera package](http://picamera.readthedocs.io/en/latest/recipes2.html#web-streaming)
 
 The HTML command interface was developed in Python. It is accessible from the local network and allows you to zoom and control the NeoPixels LED lighting.
@@ -35,7 +38,8 @@ The HTML command interface was developed in Python. It is accessible from the lo
 [Selection of components](https://diyprojects.io/components-diy-3d-printer-profiles-tnut-nema-17-a4899/) for 3D printers and CNCs that can be used in DIY.
 
 =========
-
+# Microscope motorisé avec caméra HQ pour Raspberry Pi et interface HTML
+Nous allons utiliser des éléments d’une [CNC 3018](https://amzn.to/3jST8Bs) pour construire un statif motorisé. La caméra HQ 12,3MP est installée sur un axe vertical imprimé en 3D. L’axe vertical est motorisé par un moteur Nema 17 ptiloté depuis un contrôleur A4988 en Python à l’aide de la librairie [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) de Gavin Lyons
 L'interface de commande HTML a été développée en Python. Elle est accessible depuis le réseau local et permet de zoomer et de piloter l'éclairage à LED NeoPixels.
 
 * [Tutoriel étape par étape en français](https://projetsdiy.fr/microscope-motorise-camera-hq-raspberrypi-interface-html/)
