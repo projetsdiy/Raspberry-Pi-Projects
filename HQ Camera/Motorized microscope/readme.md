@@ -39,9 +39,7 @@ The HTML command interface was developed in Python. It is accessible from the lo
 * x1 direct screw transmission element
 * x1 flexible connection ø8mm
 
-[Selection of components](https://diyprojects.io/components-diy-3d-printer-profiles-tnut-nema-17-a4899/) for 3D printers and CNCs that can be used in DIY.
-
-=========
+_____
 # Microscope motorisé avec caméra HQ pour Raspberry Pi et interface HTML
 Nous allons utiliser des éléments d’une [CNC 3018](https://amzn.to/3jST8Bs) pour construire un statif motorisé. La caméra HQ 12,3MP est installée sur un axe vertical imprimé en 3D. L’axe vertical est motorisé par un moteur Nema 17 ptiloté depuis un contrôleur A4988 en Python à l’aide de la librairie [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) de Gavin Lyons
 L'interface de commande HTML a été développée en Python. Elle est accessible depuis le réseau local et permet de zoomer et de piloter l'éclairage à LED NeoPixels.
@@ -78,4 +76,3 @@ L'interface de commande HTML a été développée en Python. Elle est accessible
 * x1 élément de transmission direct à vis
 * x1 raccord flexible ø8mm
 
-[Sélection de composants](https://projetsdiy.fr/composants-imprimantes-3d-cnc-diy-profiles-ecrout-nema-17-a4899/) pour imprimantes 3D et CNC que l'on peut utiliser dans les bricolages.
