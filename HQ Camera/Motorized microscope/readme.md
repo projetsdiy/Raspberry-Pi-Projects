@@ -18,15 +18,15 @@ The HTML command interface was developed in Python. It is accessible from the lo
 ### Components to buy
 * [12MP HQ Camera module](https://s.click.aliexpress.com/e/_ArT8CJ)
 * [4K 50mm C-mount lens](https://s.click.aliexpress.com/e/_ACyuyb) or equivalent
-* x1 Motor [Nema 17HS4401](https://amzn.to/37Z5YMi) or equivalent
-* x1 stepper motor driver [A4988](https://amzn.to/2TLUrHL) or [DRV8825](https://amzn.to/3jKHZCI)
-* x1 [4 pin cable](https://amzn.to/3mPEg8Z) for Nema motor
 * x1 [mini power supply module](https://www.banggood.com/fr/search/power-supply-module-5v-12v/0-0-0-1-1-60-0-price-0-0_p-2.html?p=RA18043558422201601Y) multi-voltages delivering at least 5V and 12V
 * x1 LED ring ø32mm ([x16 LED RGB NeoPixel](https://amzn.to/34Nm9KG))
 * [Raspberry Pi](https://amzn.to/2TJ5txu)(model of your choice). The bracket is compatible with models 3 and 4
 
 #### Recycled components from a [CNC 3018](https://amzn.to/3oQmzrC) used for the stand:
 
+* x1 Motor [Nema 17HS4401](https://amzn.to/37Z5YMi) or equivalent
+* x1 stepper motor driver [A4988](https://amzn.to/2TLUrHL) or [DRV8825](https://amzn.to/3jKHZCI)
+* x1 [4 pin cable](https://amzn.to/3mPEg8Z) for Nema motor
 * x2 aluminum profiles 2020 (square section 20x20mm) of length 220mm approximately
 * x2 2020 aluminum profiles (square section 20x20mm) approximately 350mm long
 * x4 30mm brackets
@@ -57,15 +57,15 @@ L'interface de commande HTML a été développée en Python. Elle est accessible
 ### Composants à acheter
 * [Caméra HQ 12MP](https://s.click.aliexpress.com/e/_ArT8CJ)
 * [Objectif 50mm à monture C par caméra 4K](https://s.click.aliexpress.com/e/_ACyuyb) ou équivalent
-* x1 Moteur [Nema 17HS4401](https://amzn.to/383fWMw) ou équivalent
-* x1 pilote pour moteur pas à pas [A4988](https://amzn.to/2Gk0BM9) ou [DRV8825](https://amzn.to/3jPm79k)
-* x1 [câble 4 broches](https://amzn.to/324gQ7D) pour moteur Nema
 * x1 [mini module d'alimentation](https://www.banggood.com/fr/search/power-supply-module-5v-12v/0-0-0-1-1-60-0-price-0-0_p-2.html?p=RA18043558422201601Y) multi-tensions délivrant au moins 5V et 12V
 * x1 anneau de LED ø32mm ([x16 LED RGB NeoPixel](https://amzn.to/323tK67))
 * [Raspberry Pi](https://amzn.to/2TJ5txu) (modèle au choix). Le support est compatible avec les modèles 3 et 4
 
 #### Composants recyclés d'une [CNC 3018](https://amzn.to/3265osk) pour le statif :
 
+* x1 Moteur [Nema 17HS4401](https://amzn.to/383fWMw) ou équivalent
+* x1 pilote pour moteur pas à pas [A4988](https://amzn.to/2Gk0BM9) ou [DRV8825](https://amzn.to/3jPm79k)
+* x1 [câble 4 broches](https://amzn.to/324gQ7D) pour moteur Nema
 * x2 profilés aluminium 2020 (section carrée 20x20mm) de longueur 220mm environ
 * x2 profilés aluminium 2020 (section carrée 20x20mm) de longueur 350mm environ
 * x4 équerres 30mm
