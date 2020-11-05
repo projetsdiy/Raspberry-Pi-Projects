@@ -8,12 +8,12 @@ Source code based on the Web streaming example from the official [PiCamera packa
 
 The HTML command interface was developed in Python. It is accessible from the local network and allows you to zoom and control the NeoPixels LED lighting.
 
-
-
+### Useful links
 * [Step by step tutorial](https://diyprojects.io/motorized-microscope-hq-camera-raspberry-pi-python-html-interface/)
+* [Cameras for Raspberry Pi and accessories (C-mount lenses, extension ring, CSI tape, tripod, microscope holder](https://diyprojects.io/price-csi-cameras-raspberry-pi-hq-cmount-camera-8mp-noir-5mp-ribon-lens-tripod-microscope/)
+* [3D printers and CNC spare parts](https://diyprojects.io/components-diy-3d-printer-profiles-tnut-nema-17-a4899/) for 3D printers and CNCs that can be used in DIY.
 * [3D printed parts on Thingiverse](https://www.thingiverse.com/thing:4641573)
 * [Python code to drive Nema 17 stepper motor](https://diyprojects.io/drive-nema-17-stepper-motor-rpimotorlib-python-library-a4988/)
-* [3D printers and CNC spare parts](https://diyprojects.io/components-diy-3d-printer-profiles-tnut-nema-17-a4899/)
 
 ### Components to buy
 * [12MP HQ Camera module](https://s.click.aliexpress.com/e/_ArT8CJ)
@@ -46,6 +46,7 @@ The HTML command interface was developed in Python. It is accessible from the lo
 Nous allons utiliser des éléments d’une [CNC 3018](https://amzn.to/3jST8Bs) pour construire un statif motorisé. La caméra HQ 12,3MP est installée sur un axe vertical imprimé en 3D. L’axe vertical est motorisé par un moteur Nema 17 ptiloté depuis un contrôleur A4988 en Python à l’aide de la librairie [RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) de Gavin Lyons
 L'interface de commande HTML a été développée en Python. Elle est accessible depuis le réseau local et permet de zoomer et de piloter l'éclairage à LED NeoPixels.
 
+### Liens utiles
 * [Tutoriel étape par étape en français](https://projetsdiy.fr/microscope-motorise-camera-hq-raspberrypi-interface-html/)
 * [Pièces à imprimer en 3D](https://www.thingiverse.com/thing:4641573)
 * [Découvrir la caméra HQ pour le Raspberry Pi](https://www.framboise314.fr/camera-hq-12-megapixel-pour-le-raspberry-pi-partie-1-2/)
